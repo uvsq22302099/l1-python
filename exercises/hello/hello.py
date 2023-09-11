@@ -1,2 +1,2 @@
-msg = ""
-print()
+msg = "hello la famille "
+print(msg)
